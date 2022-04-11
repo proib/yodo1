@@ -1,0 +1,42 @@
+{
+  "name": "cordova-yodo",
+  "version": "4.6.4",
+  "description": "Yodo1 MAS plugin for Cordova",
+  "cordova": {
+    "id": "cordova-admob",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proib/yodo1.git"
+  },
+  "keywords": [
+    "ad",
+    "ads",
+    "advertising",
+    "advertisment",
+    "publicity",
+    "earn",
+    "win",
+    "play",
+    "services",
+    "monetization",
+    "money",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": {
+    "name": "cordova",
+    "version": ">=4.6.4"
+  },
+  "author": "ibdoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/proib/yodo1.git"
+  },
+  "homepage": "git+https://github.com/proib/yodo1.git"
+}
